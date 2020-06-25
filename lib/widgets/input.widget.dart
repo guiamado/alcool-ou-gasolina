@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_masked_text/flutter_masked_text.dart';
-import 'dart:math' as math;
 
 class Input extends StatelessWidget {
   var label = '';
